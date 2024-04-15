@@ -1,2 +1,7 @@
-# Just-a-random-pic-for-myself
-webbpage
+# For-me-to-use
+1Readmee
+Pics for icon
+html
+css
+java
+
